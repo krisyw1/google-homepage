@@ -77,6 +77,11 @@ main{
     color: #222;
 }
 
+.g-button:focus{
+    border: 1px solid #4d90fe;
+    outline: none;
+}
+
 
 /*footer*/
 #footbar{
