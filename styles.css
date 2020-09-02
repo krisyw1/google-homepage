@@ -18,6 +18,10 @@ body{
     padding: 15px;
 }
 
+#navbar a:hover{
+    text-decoration: underline;
+}
+
 #app-button{
     width: 25px;
 }
@@ -120,6 +124,10 @@ main{
     color: #000000;
     text-decoration: none;
     padding: 15px;
+}
+
+#footbar a:hover{
+    text-decoration: underline;
 }
 
 #foot-right{
