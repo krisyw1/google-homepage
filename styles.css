@@ -3,3 +3,13 @@
     display: flex;
     justify-content: space-between;
 }
+
+main{
+   
+}
+
+#foot-link{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
