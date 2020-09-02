@@ -4,12 +4,13 @@
     justify-content: space-between;
 }
 
-main{
-   
-}
 
-#foot-link{
+
+#footbar{
     align-items: center;
     display: flex;
     justify-content: space-between;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
