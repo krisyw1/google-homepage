@@ -1,3 +1,7 @@
+body{
+    font-family:arial, sans-serif;
+}
+
 /*header*/
 #navbar{
     align-items: center;
@@ -6,6 +10,22 @@
     position: fixed;
     top: 0;
     width: 100%;
+}
+
+#navbar a{
+    color: #000000;
+    text-decoration: none;
+    padding: 15px;
+}
+
+#app-button{
+    width: 25px;
+}
+
+#profile{
+    border-radius: 50%;
+    margin: -1px;
+    border: 0;;
 }
 
 /*main*/
@@ -91,4 +111,17 @@ main{
     position: fixed;
     bottom: 0;
     width: 100%;
+    background: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
+    padding:15px;
+}
+
+#footbar a{
+    color: #000000;
+    text-decoration: none;
+    padding: 15px;
+}
+
+#foot-right{
+    margin-right: 20px;
 }
